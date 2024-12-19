@@ -1,94 +1,21 @@
 {
   "movies": [
     {
-      "id": 1,
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjgxYjI0NzUtYTUzOC00ZDQwLThhMzItZThjMjU1YTBjM2MxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Title": "Ava",
-      "Type": "movie",
-      "Year": "2020",
-      "imdbID": "tt8784956"
-    },
-    {
       "id": 2,
       "Poster": "https://m.media-amazon.com/images/M/MV5BNTE2NGM1Y2ItZTIxMy00ZTNjLTgwNTctNGYyNWQwZWQ2Nzc0XkEyXkFqcGc@._V1_SX300.jpg",
       "Title": "Aqui No Hay Quien Viva",
       "Type": "series",
       "Year": "2003-2006",
       "imdbID": "tt0381733"
-    },
-    {
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNzk0N2Y0MWUtZmM5My00YzNiLTk3YTItZTliN2VhZTZkMTVhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Title": "A.A.A. Massaggiatrice bella presenza offresi...",
-      "Type": "movie",
-      "Year": "1972",
-      "imdbID": "tt0068162",
-      "id": 3
-    },
-    {
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDFmZDc1MzMtNzY5My00YjY4LTg4NTMtZTE5ZWMxYTllYzI1XkEyXkFqcGdeQXVyMDk2Mzc2MA@@._V1_SX300.jpg",
-      "Title": "A.A.A. Achille",
-      "Type": "movie",
-      "Year": "2003",
-      "imdbID": "tt0264330",
-      "id": 4
-    },
-    {
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTE2NGM1Y2ItZTIxMy00ZTNjLTgwNTctNGYyNWQwZWQ2Nzc0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Title": "Aquí no hay quien viva",
-      "Type": "series",
-      "Year": "2003–2006",
-      "imdbID": "tt0381733",
-      "id": 5
-    },
-    {
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOWJhYjdjNWEtMWFmNC00ZjNkLThlZGEtN2NkM2U3NTVmMjZkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Title": "Arcane",
-      "Type": "series",
-      "Year": "2021–2024",
-      "imdbID": "tt11126994",
-      "id": 6
-    },
-    {
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZGFmYmRiM2UtOTI2Ni00ZjJmLTgyZjktYmFkZDQxYWVkZjNkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Title": "Lady Gaga Presents: The Monster Ball Tour at Madison Square Garden",
-      "Type": "movie",
-      "Year": "2011",
-      "imdbID": "tt1843961",
-      "id": 7
-    },
-    {
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODg1MWQ3MzAtZTY1ZS00ZTgwLWFhM2UtOGZlZDBlMDEwZDdhXkEyXkFqcGdeQXVyMTIxMzMzMzE@._V1_SX300.jpg",
-      "Title": "Viu-hah hah-taja",
-      "Type": "movie",
-      "Year": "1974",
-      "imdbID": "tt0072377",
-      "id": 8
-    },
-    {
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYjY2NDZhN2EtZmYwNS00NDU2LThiODAtNmY4OWY2ODNmZWRmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Title": "The Garfield Movie",
-      "Type": "movie",
-      "Year": "2024",
-      "imdbID": "tt5779228",
-      "id": 9
     }
   ],
-  "tasks": [
+  "reviews": [
     {
-      "id": 1,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjgxYjI0NzUtYTUzOC00ZDQwLThhMzItZThjMjU1YTBjM2MxXkEyXkFqcGc@._V1_SX300.jpg",
-      "imbdID": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
-    },
-    {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "Reviewer": "Miguel",
+      "Opinion": "🤡",
+      "Score": "1",
+      "imdbID": "tt0175142",
+      "id": 1
     }
   ]
 }
